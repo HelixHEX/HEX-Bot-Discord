@@ -13,9 +13,14 @@ Tip: People with "Kick Members" and "Ban Members" can kick and or ban people
 Join the Bot's Discord For More Help: https://discord.gg/9Q6nukR
 
 # Available Commands
+Moderation:
 1. $kick @username reason_goes_here
 2. $ban @username reason_goes_here
 3. $report @username reason_goes_here
+
+Info
+1. $botinfo
+2. $serverinfo
 
 # Help
 The prefix is "$" as of now you cannot change it. Updating that soon
