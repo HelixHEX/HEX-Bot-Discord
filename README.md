@@ -8,9 +8,9 @@ Easy to use moderation bot, which includes these features: Kicking, Banning, Mut
 
 3. You also need a channel called "reports" and this is where all the reports sent by users will go.
 
-Tip: As of now only people with "Manage Messages" can kick people and people with "Manage Members" can ban people.
+Tip: People with "Kick Members" and "Ban Members" can kick and or ban people
 
-Join the Bot's Discord For More Help 
+Join the Bot's Discord For More Help: https://discord.gg/9Q6nukR
 
 # Available Commands
 1. $kick @username reason_goes_here
