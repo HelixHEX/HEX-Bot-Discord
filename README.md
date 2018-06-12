@@ -10,13 +10,14 @@ Easy to use moderation bot, which includes these features: Kicking, Banning, Mut
 
 Tip: As of now only people with "Manage Messages" can kick people and people with "Manage Members" can ban people.
 
-# Help
-The prefix is "$" as of now you cannot change it. Updating that soon
-
 Join the Bot's Discord For More Help 
+
 # Available Commands
 1. $kick @username reason_goes_here
 2. $ban @username reason_goes_here
 3. $report @username reason_goes_here
+
+# Help
+The prefix is "$" as of now you cannot change it. Updating that soon
 
 # MORE TO COME. . .
